@@ -1,0 +1,13 @@
+{
+  "name": "rabbitmq-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.3.0",
+    "eslint-config-kitty": "^1.4.2"
+  },
+  "dependencies": {
+    "amqplib": "^0.5.1"
+  }
+}
